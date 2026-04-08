@@ -3,4 +3,6 @@ main = "src/index.ts"
 compatibility_date = "2024-01-01"
 
 [vars]
-ELEVENLABS_VOICE_ID = "kPzsL2i3teMYv0FxEYQ6"
+ELEVENLABS_VOICE_ID = "EXAVITQu4vr4xnSDxMaL"
+GEMINI_MODEL = "gemini-2.5-flash"
+GROQ_MODEL = "llama-3.3-70b-versatile"

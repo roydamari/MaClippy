@@ -587,9 +587,6 @@ struct CompanionPanelView: View {
         .pointerCursor()
     }
 
-    // MARK: - DM Farza Bu    // DM Farza button removed
-)
-    }
 
     // MARK: - Footer
 
